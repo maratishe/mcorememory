@@ -1,0 +1,3 @@
+/usr/bin/at now << _EOF_
+sh /web/meter/run.sh
+_EOF_
